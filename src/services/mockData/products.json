@@ -1,0 +1,178 @@
+[
+  {
+    "Id": 1,
+    "name": "Basmati Rice Premium",
+    "nameHindi": "बासमती चावल प्रीमियम",
+    "category": "ग्रोसरी",
+    "price": 150,
+    "description": "प्रीमियम क्वालिटी बासमती चावल। खुशबूदार और लंबे दाने वाला चावल खास मौकों के लिए।",
+    "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=500",
+    "stock": 50,
+    "isActive": true
+  },
+  {
+    "Id": 2,
+    "name": "Smartphone Android",
+    "nameHindi": "एंड्रॉइड स्मार्टफोन",
+    "category": "इलेक्ट्रॉनिक्स",
+    "price": 15000,
+    "description": "लेटेस्ट एंड्रॉइड स्मार्टफोन। 4GB RAM, 64GB स्टोरेज, डुअल कैमरा सेटअप।",
+    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500",
+    "stock": 25,
+    "isActive": true
+  },
+  {
+    "Id": 3,
+    "name": "Cotton Kurta Men",
+    "nameHindi": "पुरुषों का कॉटन कुर्ता",
+    "category": "कपड़े",
+    "price": 800,
+    "description": "शुद्ध कॉटन का आरामदायक कुर्ता। सभी सीजन के लिए उपयुक्त।",
+    "imageUrl": "https://images.unsplash.com/photo-1622445275576-721325763afe?w=500",
+    "stock": 40,
+    "isActive": true
+  },
+  {
+    "Id": 4,
+    "name": "Non-Stick Cookware Set",
+    "nameHindi": "नॉन-स्टिक कुकवेयर सेट",
+    "category": "घरेलू सामान",
+    "price": 2500,
+    "description": "5-पीस नॉन-स्टिक कुकवेयर सेट। तवा, कड़ाई, और पैन शामिल।",
+    "imageUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500",
+    "stock": 15,
+    "isActive": true
+  },
+  {
+    "Id": 5,
+    "name": "Honey Pure Organic",
+    "nameHindi": "शुद्ध ऑर्गेनिक शहद",
+    "category": "स्वास्थ्य",
+    "price": 300,
+    "description": "100% शुद्ध और ऑर्गेनिक शहद। प्राकृतिक मिठास और स्वास्थ्य लाभ।",
+    "imageUrl": "https://images.unsplash.com/photo-1587049016823-7a803d1d4972?w=500",
+    "stock": 60,
+    "isActive": true
+  },
+  {
+    "Id": 6,
+    "name": "Educational Puzzle Kids",
+    "nameHindi": "बच्चों के लिए शिक्षाप्रद पहेली",
+    "category": "खिलौने",
+    "price": 450,
+    "description": "रंगबिरंगी शिक्षाप्रद पहेली। 3-8 साल के बच्चों के लिए।",
+    "imageUrl": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=500",
+    "stock": 30,
+    "isActive": true
+  },
+  {
+    "Id": 7,
+    "name": "Hindi Literature Book",
+    "nameHindi": "हिंदी साहित्य की किताब",
+    "category": "किताबें",
+    "price": 200,
+    "description": "प्रसिद्ध हिंदी कवियों की चुनिंदा रचनाओं का संग्रह।",
+    "imageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500",
+    "stock": 35,
+    "isActive": true
+  },
+  {
+    "Id": 8,
+    "name": "Cricket Bat Professional",
+    "nameHindi": "प्रोफेशनल क्रिकेट बैट",
+    "category": "खेल सामान",
+    "price": 1200,
+    "description": "प्रीमियम क्वालिटी विलो वुड क्रिकेट बैट। सभी उम्र के खिलाड़ियों के लिए।",
+    "imageUrl": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=500",
+    "stock": 20,
+    "isActive": true
+  },
+  {
+    "Id": 9,
+    "name": "Turmeric Powder Organic",
+    "nameHindi": "ऑर्गेनिक हल्दी पाउडर",
+    "category": "ग्रोसरी",
+    "price": 120,
+    "description": "शुद्ध हल्दी पाउडर। खाना बनाने और आयुर्वेदिक उपयोग के लिए।",
+    "imageUrl": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=500",
+    "stock": 80,
+    "isActive": true
+  },
+  {
+    "Id": 10,
+    "name": "Wireless Earphones",
+    "nameHindi": "वायरलेस ईयरफोन",
+    "category": "इलेक्ट्रॉनिक्स",
+    "price": 2000,
+    "description": "प्रीमियम साउंड क्वालिटी वायरलेस ईयरफोन। 24 घंटे बैटरी लाइफ।",
+    "imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500",
+    "stock": 45,
+    "isActive": true
+  },
+  {
+    "Id": 11,
+    "name": "Women Salwar Suit",
+    "nameHindi": "महिलाओं का सलवार सूट",
+    "category": "कपड़े",
+    "price": 1500,
+    "description": "डिजाइनर सलवार सूट। त्योहारों और खास मौकों के लिए।",
+    "imageUrl": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=500",
+    "stock": 25,
+    "isActive": true
+  },
+  {
+    "Id": 12,
+    "name": "Water Purifier Home",
+    "nameHindi": "घरेलू वाटर प्यूरीफायर",
+    "category": "घरेलू सामान",
+    "price": 8000,
+    "description": "6-स्टेज वाटर प्यूरीफिकेशन सिस्टम। पूरे परिवार के लिए सुरक्षित पानी।",
+    "imageUrl": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=500",
+    "stock": 10,
+    "isActive": true
+  },
+  {
+    "Id": 13,
+    "name": "Ayurvedic Hair Oil",
+    "nameHindi": "आयुर्वेदिक हेयर ऑयल",
+    "category": "स्वास्थ्य",
+    "price": 250,
+    "description": "प्राकृतिक जड़ी-बूटियों से बना हेयर ऑयल। बालों की समस्याओं का समाधान।",
+    "imageUrl": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=500",
+    "stock": 55,
+    "isActive": true
+  },
+  {
+    "Id": 14,
+    "name": "Remote Control Car",
+    "nameHindi": "रिमोट कंट्रोल कार",
+    "category": "खिलौने",
+    "price": 1800,
+    "description": "रिचार्जेबल RC कार। बच्चों के लिए मज़ेदार खिलौना।",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500",
+    "stock": 18,
+    "isActive": true
+  },
+  {
+    "Id": 15,
+    "name": "Cooking Recipe Book",
+    "nameHindi": "खाना पकाने की रेसिपी बुक",
+    "category": "किताबें",
+    "price": 350,
+    "description": "100+ पारंपरिक भारतीय व्यंजनों की रेसिपी। स्टेप-बाई-स्टेप गाइड।",
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500",
+    "stock": 42,
+    "isActive": true
+  },
+  {
+    "Id": 16,
+    "name": "Yoga Mat Anti-Slip",
+    "nameHindi": "एंटी-स्लिप योगा मैट",
+    "category": "खेल सामान",
+    "price": 800,
+    "description": "प्रीमियम क्वालिटी योगा मैट। सभी योगासन के लिए उपयुक्त।",
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+    "stock": 32,
+    "isActive": true
+  }
+]
